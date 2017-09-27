@@ -1,0 +1,17 @@
+Legal
+Users
+Tort reform is needed to make any Participant in the Marketplace immune from medical malpractice except perhaps in the most egregious possibility (Extreme negligence or maliciousness). As it is, fixed pricing should allow even the poorest to seek second opinions which might be either other Marketplace Participants or even humans.
+
+Boilerplate Terms of Use should be developed and be required for Users to utilize Services.
+
+Participants
+See Marketplace for sections describing obligations and penalties
+
+Participants are allowed the usual legal protections to copyright and patent specific code but are not allowed to share, license or otherwise allow code to be used by other Participants. Proof of originality can be satisfied by submitting a copy to the Marketplace Owner which would be stored only where the Marketplace Owner has access, or by other method acceptable in writing by the Marketplace Owner. Should a closed, proprietary method be claimed by a Commercial Vendor without submitting to the Marketplace Owner, it would be considered only a Trade Secret.
+
+Only the original owner of code qualifies for any Competency Prize, although the code can be substantially re-written to deliver the same functionality and be considered different. The Marketplace Owner is the sole and final arbiter of when code is considered "substantially" different.
+
+
+
+
+

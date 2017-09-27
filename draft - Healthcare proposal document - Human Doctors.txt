@@ -1,0 +1,16 @@
+Affect on Human Doctors providing same services
+
+First, a comment for anyone who would like to add their own opinion...
+Fork this content.
+<Add> your comment(s). Anything that attempts to modify existing comment will likely be rejected(of course there may be exceptions, but at your risk).
+Create a Pull request.
+Your comment be accepted or rejected. Modifications may be made to facilitate integration.
+
+**************************
+
+There can be no doubt that this Proposal will impact parts of the medical profession and should be recognized and addressed. The objective of the Marketplace is mainly to alleviate unaffordable and inaccessible healthcare, but over time and in specific areas human doctors may find themselves unable to compete and so will require accomodation of some sort.
+
+I would suggest that the following be considered, but is only a short list which must be expanded.
+- Restricting use of the Marketplace to Users in specific categories. While solutions are being built, perhaps only those on Government Assistance like Medicare Extended or Medicare will use. But as reputation and competency improves while providing a very inexpensive option, at various points and places human medical practices will likely be impacted and foresight is required to manage what may be inevitable.
+- Continue to pay subsidies to human doctors for a specified amount of time that far exceeds when the Marketplace might become a preferred option. For those who might wish to continue to visit human doctors or for those who might find the human doctor the only viable option, the doctor should be paid the human rate. 
+- Somewhat consistent with the above, there should be a study to guide how human doctors can provide needed services where the Marketplace cannot. This might be in areas not serviceable by technology, or provide even common services that the Marketplace cannot.

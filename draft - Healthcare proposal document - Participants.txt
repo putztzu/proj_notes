@@ -1,0 +1,59 @@
+Marketplace
+Creation and Ownership
+The Owners of the Database shall create, maintain and be the sole arbiter of an online Marketplace for Participants
+
+
+Participants
+Qualification
+Each Participant mush be qualified by the Owners of the Marketplace to participate
+Qualification is required for "competency prizes" and must be maintained.
+Competencies shall be defined as specific tasks that are diagnosed consistent with a specific population of human doctors. Should there be a greater than prescribed divergence exist, then the competency is considered "failed" but subject to appeal to the Marketplace Owners. Should there be an appeal, the the Marketplace Owners shall adjudicate the competency and may involve additional outside "Experts" as needed. A full record of the process of adjudication including opinions of any Experts shall be attached to the Participant's appeal.
+Should a Participant fail competency at any time, that Participant immediately becomes unqualified until is able to pass required competency tests.
+Competency tests shall be based initially on historical data relevant to
+- Required competencies
+- Optional competencies
+As subscribership inserts additional data into the database, that additional data shall be added to the original data for competency testing.
+
+Requirements
+A Participant's right to participate shall be based entirely on "Requirements" as set forth in a public document.
+Participants must conform to and satisfy requirements as applicable to be granted the right to participate including access to the PHI database.
+Requirements will be specified in stages to denote progress in satisfying requirements.
+For successful qualification of each stage, the Participant is awarded a sum of money and required to prominently post that qualifying stage on the landing page of their website and continuously in any Dashboard.
+Prizes - Once rewarded are not to be returned short of a clear case of fraud. Although Prizes are awarded upon attaining Stage success, although Stage requirements may change, the Prize is considered completely separate,  and awarded only once upon first qualification. The Prize is not relevant to maintaining qualification.
+Legal - See "Legal" regarding code originality that relates to code in more than one Participant's solution.
+
+Stage 1 - Simple "Checkup" Diagnostics and Screening
+- User Enrollment and Unrollment
+    Besides basic personal ID
+    Insurance companies
+    
+- Display User Healthcare history using the Marketplace
+- Blood Pressure
+- Heartrate (beats per minute)
+- Temperature
+- Picture
+- Submit test samples
+
+Requirement - 97%
+Competency Prize - $500,000
+
+Stage 2 - Optional Competencies
+TBD and may be submitted by the Participant
+- Multi-factor authentication
+- 
+
+Stage 3 - Ad Hoc
+Competencies
+
+
+
+
+
+
+
+
+
+
+
+
+

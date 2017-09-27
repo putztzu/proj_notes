@@ -1,0 +1,11 @@
+Glossary
+The Proposal - This document in its entirety
+The Participant - A private entity member in The Marketplace which creates the User Interface and the analytical logic to provide a healthcare service to a User.
+The User - A human being authorized to utilize a solution provided by a Participant
+The Marketplace - An online group of authorized Participants who provide authorized services to The User.
+The Marketplace Owner - A federally authorized entity entrusted to be ultimately responsible for creating, managing and maintaining the Marketplace, and is the final arbiter for disputes and decisions relating to Participant solutions and their activity in the Marketplace
+The Data - Various types of Data is collected, stored and constantly created, including but not restricted to Anonymized, Identifiable, Publicly available, Personal Health Information(PHI), metadata(data about data).
+The PHI Database - The Federally owned and managed database of Personal Health Information (PHI), which is comprised of three separately stored parts (not accessible using same credentails), Anonymized data, Mapped Individual Identifiers, Appended data by the Participant
+The PHI Database Owner - A designated entity that is entrusted to create, manage and maintain the PHI database, and is the ultimate arbiter of all things related to providing secure and performant data to the Participants.
+Competencies - Specific healthcare services provided to the User by the Participant, which can be required by the Marketplace Owner or voluntary by the Participant. A Competency Test is required to provide the service to The User.
+Competency tests - Individual tests which must be passed for the Participant to offer to the User. The first tests are to provide basic and common diagnostic and screening typical in general physical checkups, but may be expanded by the Marketplace Owner or by the Participant. Even if the Competency is volunteered by the Participant, the Marketplace Owner shall be the sole arbiter and designer of any required Competency tests and although Participant input regarding design may be welcome, may also be ignored at the discretion of the Marketplace Owner.

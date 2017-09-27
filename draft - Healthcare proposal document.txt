@@ -1,0 +1,70 @@
+Title 
+A Disruptive Solution to Provide Affordable and Accessible Healthcare which does not rely on Insurance Providers
+
+Preamble
+This document is intended to be a living document, posted where participation and collaboration is possible. For those who are not familiar with github, it is a well known  place for various projects, journalistic articles and entire websites to be deployed which makes it easy for anyone to freely submit alterations. "Freely" is not only in the participative sense, it is also "no fee" free for anyone to use for public projects. All anyone needs to do is sign up for the service, clone a copy for their own use, make alterations and then do a "pull request" to the original document. After review, changes <may> be accepted and immediately incorporated into the original. A participant can also discuss and submit concepts by submitting an "issue" to the original.
+
+<see git subsection>
+
+
+
+Statement
+The current ACA and the proposed AHA do little or nothing to restrict the rising costs of healthcare. The decade-long experiment relying on Insurance companies to exert pressure onhealthcare service providers, medical equipment and drugs is a failure because they don't address the fundamental imbalance of supply and demand. 
+
+In a grossly unregulated and imbalanced marketplace such as healthcare, providers can ask for any price and customers will demand that Insurance pay for those services. In many ways, this is similar to the "inelastic market" taught in 1970's business schools, that because consumer demand for gasoline was "infinite," no amount of oil production could satisfy the demand and therefor was an explanation for the sky-rocketing prices and long gas lines at the pump. Of course, 50 years later today we know that inelastic market is a myth and a revolution in oil production extracting inexpensively from shale has completely reset supply vs demand.
+
+This proposal is based on the concept that today's healthcare marketplace is similar to the gasoline prices of the 1970's and requires a similar solution.
+
+
+
+
+
+******************************************
+This proposal seeks to address the fundamental imbalance between supply and demand for only the most basic services. 
+
+In this way, it not only addresses directly the most fundamental problem of providing healthcare at reasonable costs, it also does not conflict with any current political philosophies or positions. Democrats will likely be happy that costs will be low enough to be affordable by even the most poor and accessibility would be far greater than even the current ACA. Republicans will likely be happy that the proposal is based on public-private partnerships, long term costs are controlled and short term costs are relatively low. The Insurance Industry should be happy that their role to parse out healthcare at rising costs to customers who demand affordability is no more. Government involvement is limited to setting rules for participation, implementing limited tort reform, and being the sole owner and provider for raw healthcare data.
+
+At the least, this proposal can be a significant solution to situations where accessibility is woefully inadequate, such as the highly publicized VA wait lines and rural communities.
+
+The objective is to provide services low enough that no insurance is an option and can be accessed by anyone with a telephone with a data plan or the Internet.
+
+Executive Summary
+Healthcare services shall be provided by Artificial Intelligence solutions. The leading/bleeding edge of AI wed with Big Data currently is capable of many of the common diagnostic and screening which is part of regular "Checkups" in combination with inexpensive sensors for such things as blood pressure, pulse, temperature, etc. Any of these and additional tests including submitting samples can be done inexpensively at a neighborhood clinic or through the mail.
+
+The leading example of this type of Artificial Intelligence is IBM's Watson program as described in the CBS program "60 minutes." From a general technological point of view, the capabiliites described in the program are very reasonable and well within current known computing capabilities and the requirement to "Send Watson to Medical School for Family Practice" for example would be far less than what was required to send Watson to Medical School to become a Cancer Specialist.
+
+To the lay person, access to vast amounts of Big Data is similar to "hunman experience," the more data an AI program has access to, the better it can construct models and relationships that are similar to diagnostics by a human. Still, today and perhaps fundamentally there is and may always be a fundamental difference between AI capabilities and humans... AI can be very good at correlating data, and that is probably what a great number of humans also do. But, it's questionable whether an AI will ever be capable of inspiration and invention like humans can (but in actuality very few humans are really capable of).
+
+
+Sections
+Non-Technical
+Overall Architecture
+The PHI database is owned and managed by the Federal government, and each Participant creates their own Frontend and middleware which includes the AI.
+Registered Participants are listed in a Marketplace which is managed by the Federal governement
+
+
+The Marketplace
+Registered Participants are permitted access to the Federally managed PHI database by methods declared by the Federally managed PHI database
+
+
+The Participant
+
+Since AI programs capable of medical practice do not currently exist, this proposal includes several ideas for incubation and encouragement.
+PHI (Personal Healthcare Information) is stored persistently only in a Federally managed database with its own set of requirements (See Technical)
+Participants shall develop their own front-end solutions, including but not limited to appearance, usability, human interface, medical diagnostics, recommendations and append a copy of each Use to the PHI database.
+
+
+Legal
+To facilitate the growth of this current non-existent market, it is proposed that legislation should be passed that exempts participating AI programs from such things but not limited to medical malpractice. Use of programs should be a User's voluntary choice, and should be inexpensive enough that the User can always get multiple opinions, both human and non-human.
+
+All participants shall be bound by HIPAA guidelines(see Technical section for additional) and shall be always be current.VA
+
+Technical
+
+
+
+Addendums
+Affect on Human Doctors
+Current ACA and the proposed AHA
+Affect on providing VA services
+

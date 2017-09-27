@@ -1,0 +1,22 @@
+Oversight
+
+First, a comment for anyone who would like to add their own opinion...
+Fork this content.
+<Add> your comment(s). Anything that attempts to modify existing comment will likely be rejected(of course there may be exceptions, but at your risk).
+Create a Pull request.
+Your comment be accepted or rejected. Modifications may be made to facilitate integration.
+
+**************************
+
+An oversight committee shall be created to provide an advisory "second opinion" for everything related to the Proposal and to perform any minimal management of communication between the Marketplace Owner and the PHI Database Owner as may be needed without interfering with those entities which are granted full and ultimate authority to manage their areas of responsibility
+Initial primary purpose is to recommend, invite and formally submit changes to The Proposal
+Members of the oversight committee shall be those who have demonstrated expertise in an area required to properly execute the vision of The Proposal.
+None of the members of the oversight committee are permitted to be part of the operation of The Proposal
+Recommended areas of expertise
+Artificial Intelligence
+Statistician
+General database theory
+Database expertise specific to the technologies used
+Technical expertise related to the software used to construct the Marketplace
+Technical Computing Security
+General application architecture, including security

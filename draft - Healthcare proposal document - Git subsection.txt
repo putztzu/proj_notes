@@ -1,0 +1,86 @@
+Github instructions
+
+Unfortunately, although Github is a wonderful tool everyone should use for many purposes it's not really intended for use by purely non-technical people.
+
+Still, with a few elementary steps it's possible for even non-technical folk to get started for simple use. I can guarantee that eventually a non-technical User will reach a point that requires technical expertise to solve problems, but for at least one day everything should work fine... :)
+
+Installation
+Initially for this use it isn't necessary because all content is published in a "ghpages" branch, which means you can use the web page editor on the Github website. But, as changes are made to the original content your copy won't automatically sync the changes so your copy will go out of sync. Currently there is no way to command your Github copy to sync directly with the original, you have to specially configure your home machine to connect to the original, pull down the updated original and then upload everything to your own Github site. Whew. So, later I'll offer non-technical people both options, the technical solution or the possibly easier "wipe it out and start over" which is just fine.
+
+For the non-Technical Folk...
+1. Create your own account at Gitnub, your web browser should then open automatically to
+
+https://www.github.com/<your username>
+
+2. From the same web browser open the following page
+
+https://www.github.com/putztzu/<projectname>
+
+3. In the top right you should see a button with the word "Fork"
+Click on it, and wait a few seconds.
+Your own copy of the original is made which you can alter any way you wish, you can verify by inspecting the URL which should now contain your username, not "putztzu"
+
+4. You can now click the "Edit" button in your copy and alter it any way you wish.
+
+5. You can submit your changes to the original by clicking the "Pull" button, be sure to include some descriptive comment what you did. Changes may be accepted or rejected.
+
+Keeping your Github copy up to date
+There really isn't a simple way to keep your copy up to date.
+You can either skip to the section for Technical users, or you can simply delete your copy and execute the steps to fork a new copy which is perfectly acceptable.
+
+For the Technical Folk...
+Perhaps the first question is why you might not already be using Github where what follows could be second nature? Github can be used for a great many things and should be a a part of every IT or Dev toolbox.
+
+First, even for the Technical Folk the above steps for non-Technical folk should be known (review the above). Besides the above,
+
+- You may want to work on a local copy on your own machine, not dependent on a constant connection to the Internet
+- You may want to update your copy instead of destroying and re-creating
+- You may want to create a modified copy of your own (a branch) while still possibly incorporating upstream changes.
+
+For any of the above reasons, you will need to install Git locally on your machine. The following is not intended to be a tutorial or comprehensive.
+
+Windows
+For those who prefer a GUI
+https://git-scm.com/download/gui/windows
+For those who prefer only a command line
+https://git-for-windows.github.io/
+
+Any non-Windows OS
+Git is likely readily available in your existing repositories
+
+After installed and set up,
+Become familar with the most common git commands, clone|add .|commit|push
+
+Updating your Fork
+Especially before creating any changes locally, you must religiously update the local copy on your machine, else any changes will be rejected until you have merged upstream changes. It's always better to update before making changes which can result in a mess (and then sometimes it's easier to wipe and clean and fork anew as suggested for non-Technical Folk).
+
+If you're updating from your own Github copy(maybe you're working on multiple machines?)
+
+git pull origin master|ghpages
+
+If you wish to acquire all the changes from the original you forked from, then the following post describes this
+https://gist.github.com/CristinaSolana/1885435
+
+General git help
+https://help.github.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

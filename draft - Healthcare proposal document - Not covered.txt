@@ -1,0 +1,15 @@
+Not covered in this Proposal but required
+
+First, a comment for anyone who would like to add their own opinion...
+Fork this content.
+<Add> your comment(s). Anything that attempts to modify existing comment will likely be rejected(of course there may be exceptions, but at your risk).
+Create a Pull request.
+Your comment be accepted or rejected. Modifications may be made to facilitate integration.
+
+**************************
+
+Detailed implementation guidelines
+Budget amounts
+Research and Development advancing Healthcare policy using anonymized data
+Subcontracting policy
+Compliance policies
